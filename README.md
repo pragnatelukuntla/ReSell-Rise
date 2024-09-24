@@ -12,6 +12,7 @@ IndividualsThe online marketplace has become increasingly crowded, posing challe
 buyers and sellers seeking a reliable platform for transactions. Customers often face trust issues 
 regarding product quality when shopping online, while technicians lack opportunities to showcase their 
 expertise effectively.
+
 ● The online marketplace is increasingly saturated, posing difficulties for buyers and sellers 
 to find trustworthy platforms..
 ● Buyers frequently struggle with trusting product quality and reliability when making 
